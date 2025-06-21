@@ -1,5 +1,6 @@
 # SpiRob Origami 
 ![Modelo origami](Imagenes/spirobs_article.png)
+
 Este repositorio contiene mi versión en origami inspirada en el artículo:
 
 > Wang, Zhanchi et al. (2024). *SpiRobs: Logarithmic spiral-shaped robots for versatile grasping across scales*.
@@ -10,7 +11,7 @@ Puedes leer el artículo completo y acceder a los archivos STL oficiales (versio
 
 ## Sobre mi versión
 
-![Modelo origami](Imagenes/spirobs_origami.png)
+![Modelo origami](Imagenes/spirobs_origami_.png)
 
 Esta versión fue creada como una representación en cartulina del diseño SpiRob, considerando sus bases matemáticas para formar una espiral logarítmica.
 
@@ -25,6 +26,7 @@ El brazo está basado en una estructura simétrica. Si se fabrica sólo una de s
 
 Ya que el modelo de cartulina es hueco y estructuralmente más frágil, su capacidad para sujetar objetos mayor a 15g es limitada. Sin embargo, podría explorarse la opción de rellenarlo parcialmente con algodón u otro material liviano para aumentar un poco su "potencia". Esta idea es una hipótesis, abierta a ser experimentada :)
 
+[Mira el video de esta versión en mi instagram](https://www.instagram.com/p/DGn_4GtSkRy/)
 ____
 
 
