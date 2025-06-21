@@ -9,11 +9,11 @@ Puedes leer el artículo completo y acceder a los archivos STL oficiales (versio
 
 ---
 
-## Sobre mi versión
+## Versión Origami
 
 ![Modelo origami](Imagenes/spirobs_origami_.png)
 
-Esta versión fue creada como una representación en cartulina del diseño SpiRob, considerando sus bases matemáticas para formar una espiral logarítmica.
+Esta versión fue creada como una representación en cartulina del diseño original SpiRob, considerando sus bases matemáticas, que se exponen en el artículo, para formar una espiral logarítmica.
 
 - El modelo fue cortado en cartulina utilizando una **Silhouette Cameo 4**.
 - Incluyo los archivos en formato **DXF** para plotters de corte y doblado y en **PNG** y **SVG** para corte manual. *(Para fabricar el brazo completo, se debe hacer el corte dos veces de este modelo para unirlo y alcanzar la simetría. Revisa las imágenes de referencia y el link al video de más abajo como guia)*
