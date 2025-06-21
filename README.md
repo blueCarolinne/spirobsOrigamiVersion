@@ -17,7 +17,7 @@ Puedes leer el artículo completo y acceder a los archivos STL oficiales (versio
 Esta versión fue creada como una representación en cartulina del diseño SpiRob, considerando sus bases matemáticas para formar una espiral logarítmica.
 
 - El modelo fue cortado en cartulina utilizando una **Silhouette Cameo 4**.
-- Incluyo los archivos en formato **DXF** para plotters de corte y doblado y en **PDF** para corte manual.
+- Incluyo los archivos en formato **DXF** para plotters de corte y doblado y en **PNG** y **SVG** para corte manual.
 - Utiliza un hilo de pescar para controlar el enrrollamiento y desenrrollamiento del brazo.
 - Este trabajo es personal y con fines educativos y de divulgación.
 
