@@ -3,7 +3,8 @@
 
 Este repositorio contiene mi versión en origami inspirada en el artículo:
 
-> Wang, Zhanchi et al. (2024). *SpiRobs: Logarithmic spiral-shaped robots for versatile grasping across scales*.
+*SpiRobs: Logarithmic spiral-shaped robots for versatile grasping across scales*.
+> Wang, Zhanchi et al. (2024).
 
 Puedes leer el artículo completo y acceder a los archivos STL oficiales (versiones 2D y 3D) en la página de la revista: [enlace al artículo](https://www.cell.com/device/fulltext/S2666-9986(24)00603-3?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666998624006033%3Fshowall%3Dtrue)
 
@@ -26,12 +27,12 @@ El brazo está basado en una estructura simétrica. Si se fabrica sólo una de s
 
 Ya que el modelo de cartulina es hueco y estructuralmente más frágil, su capacidad para sujetar objetos mayor a 15g es limitada. Sin embargo, podría explorarse la opción de rellenarlo parcialmente con algodón u otro material liviano para aumentar un poco su "potencia". Esta idea es una hipótesis, abierta a ser experimentada :)
 
-[Mira el video de esta versión en mi instagram](https://www.instagram.com/p/DGn_4GtSkRy/)
+[Video del resultado de esta versión](https://www.instagram.com/p/DGn_4GtSkRy/)
 ____
 
 
 Espero que esta versión les sea útil e inspiradora para experimentar con nuevas formas de representar robótica blanda desde un enfoque accesible y maker.
 
-Si deseas experimentar con los diseños originales de los autores e imprimirlos en TPU, visita la página de la revista en la sección de **Supplemental information** que se encuentra antes de la sección de Referencias. Ahí encontrará los descargables en formato **STL** de las versiónes 2D y 3D del brazo.
+Si deseas experimentar con los diseños originales de los autores e imprimirlos en TPU, visita el [artíuclo en la página de la revista][enlace al artículo](https://www.cell.com/device/fulltext/S2666-9986(24)00603-3?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666998624006033%3Fshowall%3Dtrue) en la sección de **Supplemental information** que se encuentra antes de la sección de Referencias. Ahí se encuentra los descargables en formato **STL** de las versiónes 2D y 3D del brazo.
 
 
