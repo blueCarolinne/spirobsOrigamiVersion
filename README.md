@@ -32,6 +32,6 @@ ____
 
 Espero que esta versión les sea útil e inspiradora para experimentar con nuevas formas de representar robótica blanda desde un enfoque accesible y maker.
 
-Si deseas experimentar con los diseños originales de los autores e imprimirlos en TPU, visita el [artíuclo en la página de la revista](https://www.cell.com/device/fulltext/S2666-9986(24)00603-3?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666998624006033%3Fshowall%3Dtrue) en la sección de **Supplemental information** que se encuentra antes de la sección de Referencias. Ahí están los descargables en formato **STL** de las versiónes 2D y 3D del brazo **Spirobs**.
+Si deseas experimentar con los diseños originales de los autores e imprimirlos en TPU, visita el [artículo en la página de la revista](https://www.cell.com/device/fulltext/S2666-9986(24)00603-3?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666998624006033%3Fshowall%3Dtrue) en la sección de **Supplemental information** que se encuentra antes de la sección de Referencias. Ahí están los descargables en formato **STL** de las versiónes 2D y 3D del brazo **Spirobs**.
 
 
